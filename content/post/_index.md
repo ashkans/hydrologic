@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Sample report
 
 # View.
 #   1 = List
